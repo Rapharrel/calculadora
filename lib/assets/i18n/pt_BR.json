@@ -1,4 +1,6 @@
 {
     "app_name": "Calculadora",
-    "reverse_polish_notation": "Notação Polonesa Inversa"
+    "reverse_polish_notation": "Notação Polonesa Inversa",
+    "decimal_separator": ",",
+    "error": "erro"
 }
